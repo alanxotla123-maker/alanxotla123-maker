@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Alan Xotla</h1>
-  <p><b>Desarrollador Full Stack &middot; Linux &middot; Open Source</b></p>
+  <p><b>Software Engineering Student @ UAQ &middot; Full Stack Developer</b></p>
   <p>Querétaro, México</p>
 </div>
 
@@ -8,9 +8,9 @@
 
 ### Sobre mí
 
-- Actualmente enfocado en el desarrollo full stack con **Vue 3**, **NestJS**, **TypeScript** y **PostgreSQL**.
+- Estudiante de Ingeniería de Software en la **Universidad Autónoma de Querétaro (UAQ)**.
+- Enfocado en el desarrollo full stack con **Node.js**, **React**, **Vue 3**, **NestJS**, **Python (FastAPI)** y **PostgreSQL**.
 - Experiencia en arquitectura de monorepositorios (**pnpm**, **Turborepo**), testing (**Vitest**, **Playwright**) y diseño de APIs robustas.
-- Desarrollo y experimentación continua con **Python**, **Rust** y automatización en **Linux**.
 - Entorno de trabajo centrado en sistemas Linux y flujos de trabajo eficientes en terminal.
 
 ---
@@ -25,7 +25,7 @@
 <br/>
 
 #### Frontend & Backend
-<img src="https://skillicons.dev/icons?i=vue,vite,pinia,tailwind,nestjs,nodejs,postgres" alt="Frontend y Backend" />
+<img src="https://skillicons.dev/icons?i=react,vue,vite,tailwind,nestjs,nodejs,fastapi,postgres" alt="Frontend y Backend" />
 
 <br/>
 
@@ -55,7 +55,11 @@
     <img src="https://img.shields.io/badge/GitHub-alanxotla123--maker-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/TU-USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/alan-xotla-3178442b9" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Alan_Xotla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/alan_gerardo_31" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@alan__gerardo__31-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
